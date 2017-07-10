@@ -5,8 +5,9 @@ Intéressé par le développement
 ## Plan de la semaine
 1. découverte de l'agence (lundi matin)
 2. Prise en main de github (https://guides.github.com/activities/hello-world/)
-3. Fork du projet, création de la page web sur la branche ```gh-pages```
+3. Fork du projet,
 4. Learn git https://try.github.io/levels/1/challenges/1
+5. Création de la page web sur la branche ```gh-pages```
 5. Créer un compte sur https://www.codecademy.com/
 6. Basic HTML/CSS - https://www.codecademy.com/learn/web
 7. Javascript - https://www.codecademy.com/learn/javascript
